@@ -1,0 +1,25 @@
+body {
+  background-color: orange;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
+
+p {
+  color: white;
+  padding: 20px;
+  font-size: 18px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
+}
